@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vozepahanuze.vercel.app/sitemap.xml
